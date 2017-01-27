@@ -4,7 +4,7 @@ Very simple, proof-of-concept.
 
 How to play:
 
-```python
+```
 >>> game = Game()
 >>> game
 ____
