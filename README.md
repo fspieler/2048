@@ -4,6 +4,7 @@ Very simple, proof-of-concept.
 
 How to play:
 
+```python
 >>> game = Game()
 >>> game
 ____
@@ -46,3 +47,4 @@ ____
 ____
 4___
 2___
+```
